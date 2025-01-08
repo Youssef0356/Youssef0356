@@ -6,7 +6,7 @@
 
 - turning our environment into 3D then VR [Mall of Sfax V0.15](https://www.youtube.com/watch?v=zgUSEUWF6J4&feature=youtu.be)
 
-- 👨‍💻 All of my projects are available at [](https://youssef0356.github.io/My_Portfolio/)]
+- 👨‍💻 All of my projects are available at https://youssef0356.github.io/My_Portfolio/
 
 - 💬 Ask me about **Blender , Unreal Engine , Web Development** 
 
