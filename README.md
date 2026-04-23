@@ -34,7 +34,7 @@ I'm a multifaceted developer and artist who specializes in creating **immersive 
 
 <div align="center">
   
-  📍 **Current Position:** Multimedia Manager @ TDS  
+  📍 **Current Position:** AR & AI developer @ TDS  
   💼 **Portfolio:** [youssef0356.github.io/My_Portfolio](https://youssef0356.github.io/My_Portfolio/)  
   📧 **Email:** nejiyoussef081@gmail.com  
   📄 **CV:** [Download Here](https://drive.google.com/file/d/1UnXtS7iO1bo_moF8OpPvfRazXTwlRVvB/view?usp=sharing)
