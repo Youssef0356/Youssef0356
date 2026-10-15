@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1128,1:1b3a6b,2:00d9ff&height=180&section=header&text=Youssef%20Neji&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b3a6b,1:2a5298,2:00d9ff&height=180&section=header&text=Youssef%20Neji&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Header banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3600&pause=1200&color=00d9ff&center=true&vCenter=true&width=640&height=50&lines=Software+Developer;Industrial+AI+%26+Computer+Vision;Augmented+Reality+%26+3D;Building+Ideas+Into+Real+Products" alt="Software Developer · Industrial AI & Computer Vision · Augmented Reality & 3D · Building Ideas Into Real Products"/>
 
@@ -18,35 +18,45 @@ I build software end-to-end — from API and backend architecture to the interfa
 ## 🛠️ Tech Stack
 
 ### Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+</p>
 
 ### Web, API & Mobile
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+</p>
 
 ### AI & Computer Vision
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/YOLO-Object%20Detection-1f2937?style=flat-square&logoColor=white" alt="YOLO"/>
-<img src="https://img.shields.io/badge/OpenVINO-00C8FF?style=flat-square&logo=openvino&logoColor=white" alt="OpenVINO"/>
-<img src="https://img.shields.io/badge/Roboflow-212121?style=flat-square&logo=roboflow&logoColor=white" alt="Roboflow"/>
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/YOLO-Object%20Detection-1f2937?style=flat-square&logoColor=white" alt="YOLO"/>
+  <img src="https://img.shields.io/badge/OpenVINO-00C8FF?style=flat-square&logo=openvino&logoColor=white" alt="OpenVINO"/>
+  <img src="https://img.shields.io/badge/Roboflow-212121?style=flat-square&logo=roboflow&logoColor=white" alt="Roboflow"/>
+</p>
 
 ### AR, 3D & Game Dev
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity"/>
-<img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
-<img src="https://img.shields.io/badge/Vuforia-00B0F0?style=flat-square&logoColor=white" alt="Vuforia"/>
-<img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender"/>
+<p>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
+  <img src="https://img.shields.io/badge/Vuforia-00B0F0?style=flat-square&logoColor=white" alt="Vuforia"/>
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender"/>
+</p>
 
 ### Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+</p>
 
 ## 🏗️ Featured Projects
 
@@ -78,7 +88,7 @@ I build software end-to-end — from API and backend architecture to the interfa
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Youssef0356&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Youssef0356&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
   <img height="185" src="https://streak-stats.demolab.com/?user=Youssef0356&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef0356&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="420" alt="Top languages"/>
@@ -116,6 +126,6 @@ I build software end-to-end — from API and backend architecture to the interfa
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,1:1b3a6b,2:0a1128&height=100&section=footer" width="100%" alt="Footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b3a6b,1:2a5298,2:00d9ff&height=100&section=footer" width="100%" alt="Footer banner"/>
 
 <p align="center"><i>Bridging engineering logic with visual storytelling.</i></p>
